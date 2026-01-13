@@ -11,8 +11,20 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,html,css,tailwind" />
+
+#### 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,nextjs,html,css,tailwind,js,ts" />
+</p>
+
+#### ⚙️ Back-end & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
+</p>
+
+#### 🖌️ Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github" />
 </p>
 
 ---
