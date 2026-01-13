@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👋 Oi, eu sou o Matheus</h1>
+<h3 align="center">Software Engineer | Vue • Nuxt • TypeScript • Node • Next • React • React Native</h3>
 
-<!--
-**oliveiramatheus212/oliveiramatheus212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 💻 Desenvolvedor full-stack, com foco em me especializar em front-end, com +3 anos de experiência
+- 🎨 Focado em sistemas modernos, performáticos e escaláveis
+- 🌍 Buscando oportunidades remotas / internacionais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,html,css,tailwind" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+- 💼 LinkedIn: [https://linkedin.com/in/seu-link](https://www.linkedin.com/in/matheus-silva-oliveira-a16a6989/)
+- 🌐 Portfólio: https://seusite.com
